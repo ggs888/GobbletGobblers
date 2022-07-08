@@ -12,8 +12,7 @@ Rules:
       
 P.S. Number of players and size of board are configurable .
 
-Hope you like it
-Cheers!
+Hope you like it !
 
     
     
